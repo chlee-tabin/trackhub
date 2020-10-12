@@ -1,4 +1,4 @@
-track name=Rep3_pos description="Rep3_pos Identified polyA sites" visibility=2 colorByStrand="200,100,0 0,100,200" priority=20
+track name=Rep3_pos description="Rep3_pos Identified polyA sites" visibility=2 colorByStrand="0,100,200 200,100,0" priority=20
 chr1	polyAends	polyAends	26467	26716	.	-	.	peak="1_26467_r"; peakdepth="100"; misprime="False";
 chr1	polyAends	polyAends	34757	35006	.	+	.	peak="1_35006_f"; peakdepth="40"; misprime="False";
 chr1	polyAends	polyAends	39065	39314	.	-	.	peak="1_39065_r"; peakdepth="150"; misprime="False";
